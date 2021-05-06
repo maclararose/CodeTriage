@@ -1,0 +1,4 @@
+# config/skylight.yml
+authentication: <app auth token>
+enable_sidekiq: true
+worker_component: 'sidekiq' # or <%= worker_component_name %>

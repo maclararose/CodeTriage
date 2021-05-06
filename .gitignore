@@ -20,7 +20,7 @@
 .ruby-gemset
 
 
-.env
+
 dump.rdb
 
 # Code test coverage reports
@@ -36,3 +36,4 @@ vendor/bundle
 tags
 
 config/secrets.yml.key
+.env
