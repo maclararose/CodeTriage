@@ -5,7 +5,7 @@ services:
 
   database:
     # Use the postgres 11.5 base image for this container.
-    image: postgres:11.5
+    image: postgres:12.5
 
     volumes:
       - db_data:/var/lib/postgresql/data
